@@ -6,7 +6,7 @@ pom.xml: Contains all project dependencies, including Spring Boot Web and Lombok
 
 src/main/resources/application.properties: Configuration file for your user details and API endpoints.
 
-src/main/java/com/example/healthrx/: Main package for the application.
+src/main/java/com/example/healthrx/: Main package for the application. 
 
 HealthRxHiringChallengeApplication.java: The main entry point of the Spring Boot app.
 
